@@ -1,4 +1,2 @@
 - 👋 Hi, I’m aminahnurhasanah
-- 👀 I’m interested in the program
-- 🌱 I’m currently learning smkn2kra
 - 📫 How to reach me via email aminahhasna01@gmail.com
