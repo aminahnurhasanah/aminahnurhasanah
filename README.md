@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @aminahnurhasanah
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-aminahnurhasanah/aminahnurhasanah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m aminahnurhasanah
+- 👀 I’m interested in the program
+- 🌱 I’m currently learning smkn2kra
+- 📫 How to reach me via email aminahhasna01@gmail.com
